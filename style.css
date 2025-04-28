@@ -95,7 +95,6 @@ nav a:hover {
 
 .card:hover {
   background: #00f7ff;
-  transform: translateY(-10px);
 }
 
 .card:hover a {
